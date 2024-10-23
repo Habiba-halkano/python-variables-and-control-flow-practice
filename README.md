@@ -1,4 +1,4 @@
-This repo contains te following python questions for practise:
+This repo contains the following python questions for practise:
 1. Variable Assignment & Arithmetic Operations
 Write a program that assigns two numbers to variables a and b. Perform the following
 operations and print the results:
